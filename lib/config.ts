@@ -1,11 +1,11 @@
 // Site configuration
 export const siteConfig = {
   // Website information
-  name: "LatestX-Api's",
+  name: "TenshiX-Api's",
   description: "Beautiful, modern, and easy-to-use API documentation",
   version: "1.0.0",
   status: "online", // "online" or "offline"
-  copyright: "© 2025 LatestURL. All rights reserved.",
+  copyright: "© 2025 Draxo. All rights reserved.",
 
   // Maintenance mode configuration
   maintenance: {
@@ -53,7 +53,7 @@ export const siteConfig = {
 
   // Social links
   links: {
-    github: "https://github.com/latesturl",
+    github: "https://github.com/DraxoGanz",
   },
 
   // Status codes
